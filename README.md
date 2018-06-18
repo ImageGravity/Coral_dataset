@@ -1,4 +1,4 @@
-# Coral_dataset
+# Coral Dataset
 Images obtained from AUV Images Viewer
 
 Attribution:
