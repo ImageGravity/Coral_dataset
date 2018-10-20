@@ -1,2 +1,2 @@
-# Tests
-Files for quick data classification tests.
+# Coral_dataset
+images obtained from AUV Images Viewer
